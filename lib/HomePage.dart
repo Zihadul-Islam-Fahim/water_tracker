@@ -87,7 +87,6 @@ class _HomePageState extends State<HomePage> {
             ),
             Expanded(
               child: ListView.builder(
-                  reverse: true,
                   itemCount: waterConsumeList.length,
                   itemBuilder: (context, index) {
                     return Card(
