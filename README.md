@@ -1,16 +1,4 @@
-# water_tracker
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/Zihadul-Islam-Fahim/water_tracker/assets/82943440/08333b91-a71e-49c3-ba5f-632b42ffc239
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
